@@ -20,3 +20,4 @@ For Windows, You Can Download GPU_Caps_Viewer_Setup_v1.xxx.exe (We Upload to ./T
 For MacOs, You Can Install OpenGL Extensions Viewer in App Store.
 
 Some Computer May Have Two Gpu Card, please choose a card with a higher GL Version.
+This is difficult
